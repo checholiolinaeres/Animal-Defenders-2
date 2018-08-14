@@ -1,0 +1,40 @@
+.pausa {
+   background: url('spritesheet.png') no-repeat -770px -0px;
+   width: 256px;
+   height: 256px;
+}
+.velocidad_1 {
+   background: url('spritesheet.png') no-repeat -513px -0px;
+   width: 256px;
+   height: 256px;
+}
+.camara {
+   background: url('spritesheet.png') no-repeat -513px -514px;
+   width: 256px;
+   height: 256px;
+}
+.velocidad_2 {
+   background: url('spritesheet.png') no-repeat -513px -257px;
+   width: 256px;
+   height: 256px;
+}
+.fondoIconos {
+   background: url('spritesheet.png') no-repeat -513px -1026px;
+   width: 512px;
+   height: 512px;
+}
+.Icono_entero {
+   background: url('spritesheet.png') no-repeat -0px -513px;
+   width: 512px;
+   height: 512px;
+}
+.marcoIcono {
+   background: url('spritesheet.png') no-repeat -0px -0px;
+   width: 512px;
+   height: 512px;
+}
+.nologoIcono {
+   background: url('spritesheet.png') no-repeat -0px -1026px;
+   width: 512px;
+   height: 512px;
+}
